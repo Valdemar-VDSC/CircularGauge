@@ -1,0 +1,9 @@
+#tag ColorGroup
+	CodeName=cLink
+	#tag Color
+		Type=1
+		Platform=1
+		Light=0000FF27
+		Dark=419CFF00
+	#tag EndColor
+#tag EndColorGroup

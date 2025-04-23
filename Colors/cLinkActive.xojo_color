@@ -1,0 +1,9 @@
+#tag ColorGroup
+	CodeName=cLinkActive
+	#tag Color
+		Type=1
+		Platform=1
+		Light=CC4D4000
+		Dark=65B0FF00
+	#tag EndColor
+#tag EndColorGroup
